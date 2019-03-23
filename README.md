@@ -1,5 +1,9 @@
 Simple Single Page Application to display Pictures from an API based on Input from User.
 
+App Screen:
+
+![TuneTube - Search Album Arts](https://user-images.githubusercontent.com/32536833/54871789-5feaf400-4dba-11e9-9ef5-cc4305c61da2.png)
+
 How to simulate on your local machine:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
