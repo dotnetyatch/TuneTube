@@ -1,3 +1,7 @@
+Simple Single Page Application to display Pictures from an API based on Input from User.
+
+How to simulate on your local machine:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
